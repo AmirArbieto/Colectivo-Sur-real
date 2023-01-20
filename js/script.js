@@ -238,7 +238,7 @@ function slides(){
 // Hypervinculos
 // Menu 
 function Boton_Contactenos(){
-	window.open('/html/Contactenos.html', '_blank');
+	window.open('/Colectivo-Sur-real/html/Contactenos.html', '_blank');
 }
 
 function Boton_Integrantes(){
