@@ -237,7 +237,9 @@ function slides(){
 
 // Hypervinculos
 // Menu 
-
+function Boton_Contactenos(){
+	window.open('/html/Contactenos.html', '_blank');
+}
 
 function Boton_Integrantes(){
     location.href='/html/Integrantes.html';
