@@ -242,36 +242,36 @@ function Boton_Contactenos(){
 }
 
 function Boton_Integrantes(){
-    location.href='/html/Integrantes.html';
+    location.href='/Colectivo-Sur-real/html/Integrantes.html';
 }
 
 function Boton_Proyectos_Historicos(){
-    location.href='/html/Proyectos_Historicos.html';
+    location.href='/Colectivo-Sur-real/html/Proyectos_Historicos.html';
 }
 
 function Boton_Logeo(){
-    window.open('/Logeo.html', '_blank');
+    window.open('/Colectivo-Sur-real/html/Logeo.html', '_blank');
 }
 
 // Sub menu 
 function Boton_Colectivo_Sur_Real(){
-    location.href='/index.html';
+    location.href='/Colectivo-Sur-real/index.html';
 }
 
 function Boton_Actividades(){
-    location.href='/html/Actividades.html';
+    location.href='/Colectivo-Sur-real/html/Actividades.html';
 }
 
 function Boton_Cañete_Cultural(){
-    location.href='/html/Cañete_Cultural.html';
+    location.href='/Colectivo-Sur-real/html/Cañete_Cultural.html';
 }
 
 function Boton_Noticias(){
-    location.href='/html/Noticias.html';
+    location.href='/Colectivo-Sur-real/html/Noticias.html';
 }
 
 function Boton_Libros(){
-    location.href='/html/Libros.html';
+    location.href='/Colectivo-Sur-real/html/Libros.html';
 }
 
 
