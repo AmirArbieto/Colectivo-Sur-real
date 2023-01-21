@@ -29,40 +29,40 @@
 // Hypervinculos
 // Menu 
 function Boton_Contactenos(){
-	window.open('/html/Contactenos.html', '_blank');
+	window.open('./html/Contactenos.html', '_blank');
 }
 
 function Boton_Integrantes(){
-    location.href='/html/Integrantes.html';
+    location.href='./html/Integrantes.html';
 }
 
 function Boton_Proyectos_Historicos(){
-    location.href='/html/Proyectos_Historicos.html';
+    location.href='./html/Proyectos_Historicos.html';
 }
 
 function Boton_Logeo(){
-    window.open('/html/Logeo.html', '_blank');
+    window.open('./html/Logeo.html', '_blank');
 }
 
 // Sub menu 
 function Boton_Colectivo_Sur_Real(){
-    location.href='/index.html';
+    location.href='./index.html';
 }
 
 function Boton_Actividades(){
-    location.href='/html/Actividades.html';
+    location.href='./html/Actividades.html';
 }
 
 function Boton_Cañete_Cultural(){
-    location.href='/html/Cañete_Cultural.html';
+    location.href='./html/Cañete_Cultural.html';
 }
 
 function Boton_Noticias(){
-    location.href='/html/Noticias.html';
+    location.href='./html/Noticias.html';
 }
 
 function Boton_Libros(){
-    location.href='/html/Libros.html';
+    location.href='./html/Libros.html';
 }
 
 
